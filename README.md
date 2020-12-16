@@ -7,53 +7,52 @@ Instructions to run: Connect your iPhone to your computer, open the Xcode Projec
 
 The final zip file includes the following files:
 
-Views:
-ContentView.swift,
-DrawingWrapper.swift,
-AddNewDocument.swift
+  Views:
+  ContentView.swift,
+  DrawingWrapper.swift,
+  AddNewDocument.swift
 
-ViewControllers:
-DrawingViewController.swift
+  ViewControllers:
+  DrawingViewController.swift
 
-DataMangers:
-CoreDataManager.swift,
-DrawingManager.swift
+  DataMangers:
+  CoreDataManager.swift,
+  DrawingManager.swift
 
-Models:
-DrawingDocument.swift
+  Models:
+  DrawingDocument.swift
 
-Other files:
-DrawingAppApp.swift,
-Persistence.swift,
-DrawingDocModel.xcdatamodeld,
-DrawingApp.xcdatamodeld
+  Other files:
+  DrawingAppApp.swift,
+  Persistence.swift,
+  DrawingDocModel.xcdatamodeld,
+  DrawingApp.xcdatamodeld
 
-As well as the xcode project file, and the built-in Xcode files necessary to build the app that weren't modified.
-
+  As well as the xcode project file, and the built-in Xcode files necessary to build the app that weren't modified.
 
 Sources/resources used:
 
-Images sized using app icon maker: https://appiconmaker.co/Home/Index/73b43a86-e55e-467a-86dc-5684f77854b7
+  Images sized using app icon maker: https://appiconmaker.co/Home/Index/73b43a86-e55e-467a-86dc-5684f77854b7
 
-App icon designed using Canva: https://canva.com
+  App icon designed using Canva: https://canva.com
 
-https://www.youtube.com/watch?v=s6JYHbtVv0A&list=PLbrKvTeCrFAfoACvHOPWFmDIaKUqBZgEr&index=2
+  https://www.youtube.com/watch?v=s6JYHbtVv0A&list=PLbrKvTeCrFAfoACvHOPWFmDIaKUqBZgEr&index=2
 
-https://www.hackingwithswift.com/articles/118/uiactivityviewcontroller-by-example
+  https://www.hackingwithswift.com/articles/118/uiactivityviewcontroller-by-example
 
-https://medium.com/better-programming/an-introduction-to-pencilkit-in-ios-4d40aa62ba5b
+  https://medium.com/better-programming/an-introduction-to-pencilkit-in-ios-4d40aa62ba5b
 
-https://www.raywenderlich.com/12198216-drawing-with-pencilkit-getting-started#toc-anchor-006
+  https://www.raywenderlich.com/12198216-drawing-with-pencilkit-getting-started#toc-anchor-006
 
-https://medium.com/better-programming/how-to-screenshot-your-ios-apps-ui-in-swift-5c054a9226a5
+  https://medium.com/better-programming/how-to-screenshot-your-ios-apps-ui-in-swift-5c054a9226a5
 
-https://www.hackingwithswift.com/read/13/5/saving-to-the-ios-photo-library
+  https://www.hackingwithswift.com/read/13/5/saving-to-the-ios-photo-library
 
-https://jisyed.github.io/blog/2018/using-uuids-in-predicates-to-fetch-core-data-entities/
+  https://jisyed.github.io/blog/2018/using-uuids-in-predicates-to-fetch-core-data-entities/
 
-https://developer.apple.com/documentation/bundleresources/information_property_list/uiuserinterfacestyle
+  https://developer.apple.com/documentation/bundleresources/information_property_list/uiuserinterfacestyle
 
-https://www.hackingwithswift.com/example-code/uikit/how-to-force-a-view-controller-to-use-light-or-dark-mode
+  https://www.hackingwithswift.com/example-code/uikit/how-to-force-a-view-controller-to-use-light-or-dark-mode
 
-https://developer.apple.com/documentation/xcode/supporting_dark_mode_in_your_interface/choosing_a_specific_interface_style_for_your_ios_app
+  https://developer.apple.com/documentation/xcode/supporting_dark_mode_in_your_interface/choosing_a_specific_interface_style_for_your_ios_app
 
