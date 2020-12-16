@@ -1,5 +1,5 @@
 # iOS_App_Dev_Final
-Final iOS App Development Project, by Cady Stringer and James Kistner @github/JamesKistner
+Final iOS App Development Project, by Cady Stringer and James Kistner
 
 This is a simple drawing app that allows a user to name and create drawings, save them and come back to them later, save their drawing as an image to their device, and share their drawings with family and friends. This app uses SwiftUI, Core Data, and PencilKit. This app was designed for a final project for an iOS App Development class.
 
