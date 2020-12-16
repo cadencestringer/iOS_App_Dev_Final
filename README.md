@@ -7,44 +7,29 @@ Instructions to run: Connect your iPhone to your computer, open the Xcode Projec
 
 The final zip file includes the following files:
 
-
 Views:
-
-ContentView.swift
-
-DrawingWrapper.swift
-
+ContentView.swift,
+DrawingWrapper.swift,
 AddNewDocument.swift
 
-
 ViewControllers:
-
 DrawingViewController.swift
 
-
 DataMangers:
-
-CoreDataManager.swift
-
+CoreDataManager.swift,
 DrawingManager.swift
 
-
 Models:
-
 DrawingDocument.swift
 
-
 Other files:
-
-DrawingAppApp.swift
-
-Persistence.swift
-
-DrawingDocModel.xcdatamodeld
-
+DrawingAppApp.swift,
+Persistence.swift,
+DrawingDocModel.xcdatamodeld,
 DrawingApp.xcdatamodeld
 
 As well as the xcode project file, and the built-in Xcode files necessary to build the app that weren't modified.
+
 
 Sources/resources used:
 
