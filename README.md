@@ -5,7 +5,7 @@ This is a simple drawing app that allows a user to name and create drawings, sav
 
 Instructions to run: Connect your iPhone to your computer, open the Xcode Project file, and press play to build the app on your iPhone. Tap "Add" to create and name your drawing. Draw and erase to your heart's content. If you want to start over, tap the "clear" button. When the drawing is finished, save it or share it with friends and family via the "share" button. Need to take a break? Your drawing will be saved and you can come back later and access any time. Want to delete a drawing? On the right side of the drawing name, slide to the left and tap "delete." Happy drawing!
 
-The final zip file includes the following files:
+The final zip file StringerC-KistnerJ_Final.zip includes the following files:
 
 Views:
 - ContentView.swift
